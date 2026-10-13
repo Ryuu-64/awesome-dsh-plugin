@@ -2,5 +2,5 @@ url: https://github.com/Ryuu-64/dsh-find-all
 name: Ryuu-64/dsh-find-all
 category: ui
 description:
-  en: 'Find messages in the current DeepSeek Harness (DSH) conversation with Ctrl+F / Cmd+F.'
-  zh: 'DeepSeek Harness（DSH）的当前会话查找插件，按 Ctrl+F / Cmd+F 查找消息并跳转到结果。'
+  en: 'Search titles and saved text across ordinary DeepSeek Harness (DSH) conversations in all workspaces, optionally including archived chats, with Ctrl+F / Cmd+F search inside the current conversation.'
+  zh: '搜索 DeepSeek Harness（DSH）各工作区普通对话的标题和已保存正文，可包含归档；也可按 Ctrl+F / Cmd+F 查找当前对话。'
